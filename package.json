@@ -1,0 +1,17 @@
+{
+  "name": "generator-wxpage",
+  "version": "0.0.0",
+  "description": "Yeoman generator for WeiXin page",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "weixin"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.16.0"
+  },
+  "author": "John Wu <webmaster@leapoahead.com> (https://github.com/tjwudi)",
+  "license": "MIT"
+}
